@@ -1,0 +1,22 @@
+{
+  "name": "@jehankandy/test-npm-github",
+  "version": "1.0.0",
+  "description": "Test NPM on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackendExpert/test-npm-github.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "JehanKandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BackendExpert/test-npm-github/issues"
+  },
+  "homepage": "https://github.com/BackendExpert/test-npm-github#readme"
+}
